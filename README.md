@@ -16,16 +16,19 @@ Here're some of the project's best features:
 USER PAGE
 
 BLOG 
+
 ![1679856629485](https://user-images.githubusercontent.com/124188116/228066299-2fff5765-cc1c-472e-9105-66d79a8aebf1.jpg)
 
 ---------------------------------------------------------------------------------------------------------------
 
 ABOUT
+
 ![1679856630452](https://user-images.githubusercontent.com/124188116/228066440-b6434456-b389-4c53-9393-0c9164efcce6.jpg)
 
 ---------------------------------------------------------------------------------------------------------------
 
 CONTACT
+
 ![1679856628254](https://user-images.githubusercontent.com/124188116/228066472-0f2069fb-351f-46ca-b1f3-b75bc363277e.jpg)
 
 
